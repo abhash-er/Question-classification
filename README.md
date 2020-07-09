@@ -75,9 +75,11 @@ Total params: 2,845,069
 Trainable params: 1,739,269
 Non-trainable params: 1,105,800
 ```
-<i><b> INPUT &rarr; EMBEDDING &rarr; LSTM &rarr; RELU-128 &rarr; RELU-64 &rarr; SOFTMAX &rarr; OUTPUT </b></i>   
+<h6><i> INPUT &rarr; EMBEDDING &rarr; LSTM &rarr; RELU-128 &rarr; RELU-64 &rarr; SOFTMAX &rarr; OUTPUT </i> </h6>   
 
 - Note :  The maximum length of input stream is 35 here. It can be changed to other number also depending upon the use case. 
+
+This model was also a success.
 
 Upon Training a validation loss of just 7.63% and an accuracy of 98.64% was achieved.
 
