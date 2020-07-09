@@ -1,8 +1,8 @@
-# Question-classification [![Attached Image](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/abhash-er/Question-classification/blob/master/LICENSE)
+# Question-classification
 
 This repo is a part of assignment given by niki.ai
 
-
+ [![Attached Image](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/abhash-er/Question-classification/blob/master/LICENSE)
 ## Problem:
 
 Given a question, the aim is to identify the category it belongs to. The four categories to handle for this assignment are : Who, What, When, Affirmation(yes/no).
@@ -21,13 +21,14 @@ What time does the train leave(this looks like a what question but is actually a
 ```
 
 
+
+
 ## 1 .Major Files :
 See the Analysis Part in the [Notebook](nlp_classification.ipynb) <br>
 
 To run the Random-Forest version Web Api- run [Web API](apiFLASK.py)
 
 To run the LSTM version CLI Api- run [LSTM](lstm.py)
-
 
 
 
