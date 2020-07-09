@@ -18,7 +18,16 @@ There are ambiguous cases to handle as well like:
 What time does the train leave(this looks like a what question but is actually a When type)
 ```
 
-## What I did! 
+
+## 1 .Major Files :
+See the Analysis Part in the [Notebook](nlp_classification.ipynb)
+To run the Random-Forest version Web Api- run [Web API](apiFLASK.py)
+To run the LSTM version CLI Api- run [LSTM](lstm.py)
+
+
+
+
+## 2. What I did! 
 
 <b>1. The first part was to analyze the dataset or rather preprocess it. </b>
 
@@ -89,7 +98,10 @@ I also saved this model for calling it inside the API.
 The Tensorflow LSTM Model was very heavy and ran on GPU, thus while using Flask the gpu was overloaded. Hence, for LSTM, a command line version is implemented.
 ```
 
-## Flask API (Random-Forest)
+
+
+
+## 3. Flask API (Random-Forest)
 
 This API is developed in Flask for implementing the Random Forest Model
 See [Web API](apiFLASK.py) for the code. 
@@ -107,7 +119,10 @@ See [Web API](apiFLASK.py) for the code.
 ![Attached Image](https://raw.githubusercontent.com/abhash-er/Question-classification/master/Markdown%20Images/result.png)
 
 
-## CLI - LSTM API
+
+
+
+## 4. CLI - LSTM API
 
 This API is developed in Flask for implementing the Random Forest Model
 See [LSTM](lstm.py) for the code.
