@@ -19,6 +19,7 @@ There are ambiguous cases to handle as well like:
 What time does the train leave(this looks like a what question but is actually a When type)
 ```
 
+[![Attached Image](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/abhash-er/Question-classification/blob/master/LICENSE)
 
 ## 1 .Major Files :
 See the Analysis Part in the [Notebook](nlp_classification.ipynb) <br>
