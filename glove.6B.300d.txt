@@ -1,0 +1,1 @@
+Please Download the Glove Word Vectors from http://nlp.stanford.edu/data/glove.6B.zip, Use the 300b pretrained word-vectors.
