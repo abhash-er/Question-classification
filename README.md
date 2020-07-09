@@ -20,8 +20,10 @@ What time does the train leave(this looks like a what question but is actually a
 
 
 ## 1 .Major Files :
-See the Analysis Part in the [Notebook](nlp_classification.ipynb)
+See the Analysis Part in the [Notebook](nlp_classification.ipynb) <br>
+
 To run the Random-Forest version Web Api- run [Web API](apiFLASK.py)
+
 To run the LSTM version CLI Api- run [LSTM](lstm.py)
 
 
@@ -137,4 +139,24 @@ See [LSTM](lstm.py) for the code.
 ![Attached Image](https://raw.githubusercontent.com/abhash-er/Question-classification/master/Markdown%20Images/sample_lstm1.png)
 
 
+## 5. Dependencies
+
+You can run pip install dependencies.txt to check that you satisfy all the requirements.
+
+```
+tensorflow-gpu==2.1.0
+tqdm==4.47.0
+keras-gpu==2.3.1
+pandas==1.0.2
+numpy==1.18.1
+scipy==1.41.1
+flask==1.1.2
+matplotlib==3.13
+seaborn==0.10.0
+nltk==3.5
+sklearn==0.0
+json5==0.9.2
+requests==2.23.0
+
+```
 
