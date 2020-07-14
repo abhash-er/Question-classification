@@ -129,10 +129,10 @@ See [Web API](apiFLASK.py) for the code.
 
 ## 4. CLI - LSTM API
 
-This API is developed in Flask for implementing the Random Forest Model
+This is a command line python program for implementing the LSTM Model.
 See [LSTM](lstm.py) for the code.
 
-> Initial Load
+> Initial Load - run lstm.py
 
 ![Attached Image](https://raw.githubusercontent.com/abhash-er/Question-classification/master/Markdown%20Images/sample_lstm.PNG)
 
