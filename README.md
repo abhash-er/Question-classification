@@ -1,6 +1,5 @@
 # Question-classification
 
-This repo is a part of assignment given by niki.ai
 
  [![Attached Image](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/abhash-er/Question-classification/blob/master/LICENSE)
 ## Problem:
